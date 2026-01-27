@@ -2,7 +2,7 @@
   
 # Hey there! I'm Vishwash Prajapati 👋
 
-### `Full Stack Developer` | `ECE Student` | `Open Source Enthusiast`
+### `Full Stack Developer` | `ELCE Student` | `Problem Solver`
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://vishwas789blip.github.io/Vishwas_prajapati_portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishwash-prajapati-a96a43382/)
