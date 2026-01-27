@@ -1,15 +1,97 @@
-<h1 align="center">Hi 👋, I'm Vishwash prajapati</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h1 align="center">Hi 👋, I'm Vishwash Prajapati</h1>
+<h3 align="center">Electrical & Computer Engineering Student | Web Developer</h3>
 
-- 🔭 I’m currently working on **Wanderlust**
-
-- 🌱 I’m currently learning **React**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jhhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jhhh" height="30" width="40" /></a>
-<a href="https://instagram.com/hh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hh" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Web+Developer;Computer+Science+Student;Hackathon+Enthusiast;Lifelong+Learner" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
+
+## 🚀 About Me
+
+🎓 I am an **Electrical & Computer Engineering student** with a strong interest in  
+**Web Development, Software Engineering, and Problem Solving**.
+
+💡 I enjoy building **responsive, user-friendly web applications** and learning by doing through real-world projects.
+
+🛠️ Currently improving my skills in:
+- Full Stack Development  
+- JavaScript & React  
+- Backend with Node.js & MongoDB  
+- Git & GitHub collaboration  
+
+📌 My goal is to become a skilled software developer and gain hands-on industry experience through internships and projects.
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+- Python  
+- JavaScript  
+- C / C++
+
+### 🌐 Web Development
+- HTML5, CSS3, JavaScript  
+- React  
+- Node.js  
+- Express.js  
+- MongoDB  
+
+### 🖥️ Operating Systems
+- Windows  
+- Linux  
+- macOS  
+
+---
+
+## 📂 Projects
+
+### 🌍 Wanderlust
+**A full-stack web platform for listing, discovering, and reviewing travel accommodations.**
+
+🔗 Live: https://wanderlust-1-n5rj.onrender.com  
+📦 Code: https://github.com/vishwas789blip/wanderlust-.git  
+
+---
+
+### 🎬 CineVault
+**A web application with login and personalized watchlist features.**
+
+🔗 Live: https://vishwas789blip.github.io/CineVault2/login.html  
+📦 Code: https://github.com/vishwas789blip/CineVault2.git  
+
+---
+
+### 👤 Portfolio Website
+**Personal portfolio website built using HTML, CSS, and JavaScript.**
+
+🔗 Live: https://vishwas789blip.github.io/Vishwas_prajapati_portfolio/  
+📦 Code: https://github.com/vishwas789blip/Vishwas_prajapati_portfolio.git  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vishwas789blip&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishwas789blip&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: **vishwasprajapati910@gmail.com**
+- 💼 LinkedIn: https://www.linkedin.com/in/vishwash-prajapati-a96a43382/
+- 💻 Portfolio: https://vishwas789blip.github.io/Vishwas_prajapati_portfolio/
+- 🐙 GitHub: https://github.com/vishwas789blip
+
+---
+
+<p align="center">
+  <i>“We all make choices, but in the end our choices make us.”</i>
+</p>
