@@ -65,19 +65,6 @@ const vishwash = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vishwas789blip&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwas789blip&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwas789blip&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF" />
-
-</div>
-
----
-
 ## 🏆 Featured Projects
 
 <div align="center">
@@ -87,16 +74,6 @@ const vishwash = {
 | **Wanderlust** | A web platform for listing, discovering, and reviewing travel accommodations | `MERN Stack` | [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square&logo=vercel&logoColor=white)](https://wanderlust-1-n5rj.onrender.com) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vishwas789blip/wanderlust-.git) |
 | **CineVault** | A web app with login and personalized watchlist features | `HTML` `CSS` `JavaScript` | [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square&logo=vercel&logoColor=white)](https://vishwas789blip.github.io/CineVault2/login.html) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vishwas789blip/CineVault2.git) |
 | **Portfolio** | Personal portfolio website showcasing my work | `HTML` `CSS` `JavaScript` | [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square&logo=vercel&logoColor=white)](https://vishwas789blip.github.io/Vishwas_prajapati_portfolio/) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vishwas789blip/Vishwas_prajapati_portfolio.git) |
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  
-[![Vishwash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vishwas789blip&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF)](https://github.com/vishwas789blip)
 
 </div>
 
